@@ -1,7 +1,5 @@
-1. Using Hack Tool XD
-> https://github.com/gentilkiwi/mimikatz
-```
-#重開機就失效
+1. Using Mimikatz
+重開機會就失效
 privilege::debug
 ts::multirdp
-```
+> https://github.com/gentilkiwi/mimikatz
