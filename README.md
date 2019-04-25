@@ -1,2 +1,2 @@
 # FAA-302
-📝 Write Remote Solution
+https://ec.sod.co.jp/prime/videos/?id=FAA-302
