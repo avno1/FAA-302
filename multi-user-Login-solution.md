@@ -5,8 +5,8 @@ Using Mimikatz
 2. Download main tools
 > https://github.com/gentilkiwi/mimikatz  
 ```
-# Adding to shell:startup is necessary.
-# Adding below cmd to *shortcut* and sure have the admin privilege.
+# Adding to shell:startup is necessary (重起會失效啦，幹).
+# Adding below cmd to shortcut and sure have the admin privilege.
 
 privilege::debug     
 ts::multirdp
