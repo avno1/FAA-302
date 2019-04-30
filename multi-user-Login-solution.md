@@ -1,11 +1,12 @@
 Using Mimikatz
 ----
-1. 先使用DWS，解掉後面一直報病毒問題。　　
+1. Using DWS to disable windows defender.
 > https://github.com/Nummer/Destroy-Windows-10-Spying/releases
-2. 下載主工具　　
+2. download main tools
 > https://github.com/gentilkiwi/mimikatz  
 ```
-重開機會就失效 
+# Adding to shell:startup is necessary.
+# Adding below cmd to *shortcut* and sure have the admin privilege.
 privilege::debug     
 ts::multirdp
 ```
